@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

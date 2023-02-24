@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

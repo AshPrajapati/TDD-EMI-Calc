@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;

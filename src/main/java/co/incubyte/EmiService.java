@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import io.micronaut.http.client.HttpClient;
 import io.micronaut.http.client.annotation.Client;

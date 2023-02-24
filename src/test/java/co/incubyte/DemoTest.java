@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import io.micronaut.runtime.EmbeddedApplication;
 import io.micronaut.test.extensions.junit5.annotation.MicronautTest;

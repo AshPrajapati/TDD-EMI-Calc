@@ -1,4 +1,4 @@
-package com.example;
+package co.incubyte;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
